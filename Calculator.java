@@ -3,7 +3,7 @@ public class Calculator {
     public static void main (String[] args) {
         Scanner input = new Scanner(System.in);
 
-//  Выбираем опреацию
+//  Выбираем опреацию, вводим переменные
 
 System.out.println("Выберите операцию (+,-,*,/,^):");
 String operator = input.nextLine();
